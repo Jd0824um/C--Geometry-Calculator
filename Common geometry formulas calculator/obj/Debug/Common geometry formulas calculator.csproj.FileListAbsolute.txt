@@ -1,0 +1,10 @@
+C:\Users\Djester808\source\repos\Common geometry formulas calculator\Common geometry formulas calculator\bin\Debug\Common geometry formulas calculator.exe.config
+C:\Users\Djester808\source\repos\Common geometry formulas calculator\Common geometry formulas calculator\bin\Debug\Common geometry formulas calculator.exe
+C:\Users\Djester808\source\repos\Common geometry formulas calculator\Common geometry formulas calculator\bin\Debug\Common geometry formulas calculator.pdb
+C:\Users\Djester808\source\repos\Common geometry formulas calculator\Common geometry formulas calculator\obj\Debug\Common geometry formulas calculator.csprojResolveAssemblyReference.cache
+C:\Users\Djester808\source\repos\Common geometry formulas calculator\Common geometry formulas calculator\obj\Debug\Common_geometry_formulas_calculator.fromCalculator.resources
+C:\Users\Djester808\source\repos\Common geometry formulas calculator\Common geometry formulas calculator\obj\Debug\Common_geometry_formulas_calculator.Properties.Resources.resources
+C:\Users\Djester808\source\repos\Common geometry formulas calculator\Common geometry formulas calculator\obj\Debug\Common geometry formulas calculator.csproj.GenerateResource.Cache
+C:\Users\Djester808\source\repos\Common geometry formulas calculator\Common geometry formulas calculator\obj\Debug\Common geometry formulas calculator.csproj.CoreCompileInputs.cache
+C:\Users\Djester808\source\repos\Common geometry formulas calculator\Common geometry formulas calculator\obj\Debug\Common geometry formulas calculator.exe
+C:\Users\Djester808\source\repos\Common geometry formulas calculator\Common geometry formulas calculator\obj\Debug\Common geometry formulas calculator.pdb
